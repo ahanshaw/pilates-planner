@@ -1,0 +1,282 @@
+{
+  "blocks": {
+    "1880703770": {
+      "equipment": "mat",
+      "focus": "full-body",
+      "instructions": [
+        {
+          "step": "Place hands on sides of rib cage. Take 3-5 breaths in through nose, out through mouth, engaging pelvic floor muscles lightly. Maintain neutral pelvis.\n"
+        }
+      ],
+      "key": 1880703770,
+      "level": "beginner",
+      "props": [
+        "towel"
+      ],
+      "start": "Lying down with head propped by folded towel.",
+      "title": "Breathing Warmup",
+      "type": "warmup"
+    },
+    "2808565917": {
+      "equipment": "mat",
+      "focus": "core",
+      "instructions": [
+        {
+          "step": "Alternating Leg Lifts. Inhale, lift one leg to table top, exhale, lift other. Inhale, stay in table top, exhale, lower one leg, then other. 4x."
+        },
+        {
+          "step": "Toe Taps. Stay in table top and lower one leg toward floor, with knee bent as low as you can maintain pelvic placement and abdominal connection. 10x."
+        }
+      ],
+      "key": 2808565917,
+      "level": "beginner",
+      "props": [
+        "none"
+      ],
+      "start": "Lie on back.",
+      "title": "Table Top Series",
+      "type": "series"
+    },
+    "3047367704": {
+      "equipment": "reformer",
+      "focus": "arms",
+      "instructions": [
+        {
+          "step": "Use 1 red spring."
+        },
+        {
+          "step": "Plow: Arms straight, palms facing back. Press arms back without dropping chest. 10x."
+        },
+        {
+          "step": "Tricep Press. Elbows bend and extend. 10x.\n"
+        },
+        {
+          "step": "Open Elbows: slide straps around forearm just before elbows. 10x."
+        }
+      ],
+      "key": 3047367704,
+      "level": "beginner",
+      "props": [
+        "none"
+      ],
+      "start": "Seated, legs crossed in front. Elbows bent at 90 degrees shoulder height, open to side.",
+      "title": "Arm Series",
+      "type": "series"
+    },
+    "4896626705": {
+      "equipment": "reformer",
+      "focus": "legs",
+      "instructions": [
+        {
+          "step": "Footwork: 2 red and 1 blue or 3 red springs.\n\n"
+        },
+        {
+          "step": "High Half Toe: Balls of feet on footbar, heels lifted. Press out full range, 10x. Small, slow end-range pulses, 10x. Quick, low-range pulses, 10x.\n\n\n"
+        },
+        {
+          "step": "Lower and lift heels. 10x."
+        },
+        {
+          "step": "Single Leg: 2 red springs.\n"
+        },
+        {
+          "step": "Heel on, parallel legs, one leg in table top. Press out. 10x. \n"
+        },
+        {
+          "step": "Bicycle: Reach leg over foot bar to start, press out, and come to table top. 10x."
+        }
+      ],
+      "key": 4896626705,
+      "level": "beginner",
+      "props": [
+        "none"
+      ],
+      "start": "Head rest on middle setting, neutral pelvis and spine.",
+      "title": "Footwork",
+      "type": "series"
+    },
+    "4907972686": {
+      "equipment": "mat",
+      "focus": "legs",
+      "instructions": [
+        {
+          "step": "Lift and lower top leg, pointing and flexing foot. 10x.\nStaggered Legs: \nScissors: Hold both legs hovering and reach one back and one forward 10x\nSpinal Rotation: Bend knees stacked together, reach both arms forward. \nInhale lift top arm to ceiling\nExhale Rotate spine, ribs, head and arm. \nStay there on the inhale and exhale before coming back to side starting position. \n"
+        },
+        {
+          "step": "Lift top leg, lift bottom leg, lower both together. 10x."
+        },
+        {
+          "step": "Lift both Legs at once. 10x."
+        }
+      ],
+      "key": 4907972686,
+      "level": "beginner",
+      "props": [
+        "towel",
+        "yoga-block"
+      ],
+      "start": "Place block and towel under head. Line body up with front or back edge of mat, legs long and in line with body.",
+      "title": "Side Line Series",
+      "type": "series"
+    },
+    "5013276164": {
+      "equipment": "mat",
+      "focus": "core",
+      "instructions": [
+        {
+          "step": "Round up in center. 10x."
+        },
+        {
+          "step": "Twist to each side. 10x each side."
+        },
+        {
+          "step": "Rotate side-to-side (windshield wiper). 10x."
+        },
+        {
+          "step": "Twist to side, rotate through center to other side, return to start, repeat in opposite direction. 10x."
+        }
+      ],
+      "key": 5013276164,
+      "level": "beginner",
+      "props": [
+        "none"
+      ],
+      "start": "Lay on mat, place hands behind head.",
+      "title": "Ab Prep Series",
+      "type": "series"
+    },
+    "5120545923": {
+      "equipment": "mat",
+      "focus": "legs",
+      "instructions": [
+        {
+          "step": "Single Leg Stretch: Lift one leg to table top. Reach leg out straightening as low as neutral can be maintained, and bend. 10x."
+        },
+        {
+          "step": "Add band around foot. "
+        },
+        {
+          "step": "Lift and Lower: Straighten leg toward ceiling and lower (lift leg only as high as knee can stay straight and pelvis neutral). Should feel stretch in hamstring. 10x."
+        },
+        {
+          "step": "One-Leg Circle: Keep knee straight and circle leg. 10x each direction."
+        }
+      ],
+      "key": 5120545923,
+      "level": "beginner",
+      "props": [
+        "towel",
+        "resistance-band"
+      ],
+      "start": "On back, head down with towel under head.",
+      "title": "Single Leg Series",
+      "type": "series"
+    },
+    "9497693357": {
+      "equipment": "mat",
+      "focus": "full-body",
+      "instructions": [
+        {
+          "step": "Protract shoulders. 5x."
+        },
+        {
+          "step": "Retract shoulders. 5x."
+        },
+        {
+          "step": "Full-range protraction/retraction. 5x."
+        },
+        {
+          "step": "Cat stretch, articulating from tail to head. 5x."
+        },
+        {
+          "step": "Place yoga block between knees. Inhale to prepare, exhale and hover knees off mat, inhale, and exhale to lower, squeezing block between knees, especially when lowering. 8x."
+        }
+      ],
+      "key": 9497693357,
+      "level": "beginner",
+      "props": [
+        "yoga-block"
+      ],
+      "start": "Start on hands and knees in neutral spine. ",
+      "title": "Four-Point Kneeling",
+      "type": "series"
+    }
+  },
+  "types": {
+    "list": [
+      {
+        "item": "warmup"
+      },
+      {
+        "item": "series"
+      },
+      {
+        "item": "cooldown"
+      }
+    ]
+  },
+  "levels": {
+    "list": [
+      {
+        "item": "beginner"
+      },
+      {
+        "item": "intermediate"
+      },
+      {
+        "item": "advanced"
+      }
+    ]
+  },
+  "focus": {
+    "list": [
+      {
+        "item": "full-body"
+      },
+      {
+        "item": "core"
+      },
+      {
+        "item": "arms"
+      },
+      {
+        "item": "legs"
+      }
+    ]
+  },
+  "equipment": {
+    "list": [
+      {
+        "item": "mat"
+      },
+      {
+        "item": "reformer"
+      },
+      {
+        "item": "tower"
+      },
+      {
+        "item": "chair"
+      }
+    ]
+  },
+  "props": {
+    "list": [
+      {
+        "item": "none"
+      },
+      {
+        "item": "towel"
+      },
+      {
+        "item": "yoga-block"
+      },
+      {
+        "item": "large-ball"
+      },
+      {
+        "item": "resistance-band"
+      }
+    ]
+  }
+}

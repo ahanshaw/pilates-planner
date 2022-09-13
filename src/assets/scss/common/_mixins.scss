@@ -1,0 +1,32 @@
+@mixin button-reset {
+	text-decoration: none;
+	text-shadow: none;
+	padding: 0;
+	background-color: transparent;
+	border: 0;
+	border-radius: 0;
+	box-shadow: none;
+	appearance: none;
+
+	&:hover {
+		cursor: pointer;
+	}
+}
+
+@mixin mobile {
+	@media screen and (max-width: 568px) {
+		@content;
+	}
+}
+
+@mixin tablet {
+	@media screen and (max-width: 834px) {
+		@content;
+	}
+}
+
+@mixin laptop {
+	@media screen and (max-width: 1100px) {
+		@content;
+	}
+}

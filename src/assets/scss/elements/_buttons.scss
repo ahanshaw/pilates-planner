@@ -1,0 +1,40 @@
+button {
+    @include button-reset;
+}
+
+%btn {
+    width: auto;
+    height: 2rem;
+    font-size: .9rem;
+    font-weight: bold;
+    line-height: 2rem;
+    text-transform: uppercase;
+    padding: 0 1.5rem;
+    transition: color .3s ease, background-color 0.3s ease;
+}
+
+.btn {
+    @extend %btn;
+
+    &-primary {
+        @extend %btn;
+        color: $white;
+        background-color: $black;
+
+        &:hover {
+            color: $black;
+            background-color: rgba($black, .25);
+        }
+    }
+
+    &-secondary {
+        @extend %btn;
+        color: $black;
+        background-color: rgba($black, .27);
+
+        &:hover {
+            color: $white;
+            background-color: $black;
+        }
+    }
+}

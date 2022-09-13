@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    max-inline-size: 75ch;
+    margin-inline: auto;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    gap: $gap;
+}
+
+.align-bottom {
+    display: flex;
+    align-items: flex-end;
+}
+
+.stack > * + * {
+    margin-block-start: $gap;
+}
+
+.stack-xl > * + * {
+    margin-block-start: $gap-xl;
+}
+
+.stack-lg > * + * {
+    margin-block-start: $gap-lg;
+}
+
+.stack-sm > * + * {
+    margin-block-start: $gap-sm;
+}
+
+.stack-xs > * + * {
+    margin-block-start: $gap-xs;
+}
